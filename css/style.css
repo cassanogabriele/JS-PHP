@@ -1,0 +1,87 @@
+#title{ color:#BDBDBD; }
+
+#sub-title{ color:#FFFFFF; }
+
+#presentation{ 
+	margin-top:45px; 
+	margin-bottom:85px;
+}
+
+#date-css{
+	background-color:#01DFD7;
+}
+
+.center{ text-align:center; }
+
+.ds{
+	border:2px double #E6E6E6;
+}
+
+#title_current{ 
+	text-align:center;
+	margin-top:-15px;	
+}
+
+.separation{
+	background-color:#FFFFFF;
+	margin-bottom:10px;
+}
+
+.titles{
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	font-style: italic;
+}
+
+hr{
+	border : 1px solid #FFF;
+}
+
+#background{
+	height:500px; 
+	width:100%; 
+	display: block;
+	margin-bottom:25px;
+}
+
+#error-msg{ text-align:center; }
+
+#first-card{ 
+	margin-top:-45px; 
+	margin-bottom:35px !important;
+}
+
+#problems{ 
+	margin-top: 15px;
+	margin-bottom:-10px;
+}
+
+#empty-div{ margin-top:15px; }
+
+#title-card{
+	color:#000000;
+	text-align:center;
+	font-family:Stencil Std, fantasy;	
+}
+
+#slogan{ 
+	color:#FFFFFF;
+	font-size:13px;
+}
+#card-text{
+	font-family:Trattatello, fantasy;
+	color:#000000;
+	text-align:center;	
+	font-style:italic;
+	font-weight:bold;
+	font-size:18px;
+}
+
+#msg{ color:}
+
+#copyright{ color:#F2F2F2; }
+
+.errors{ text-align:center; }
+
+#top{ margin-top:35px; } 
